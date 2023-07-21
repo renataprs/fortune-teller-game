@@ -5,8 +5,7 @@
 
 
 body {
-    background-image: url(/img/background.jpg);
-    background-repeat: no-repeat;
+    background-color: #14213d;
     color: aliceblue;
     text-align: center;
     font-family: sans-serif;
@@ -34,7 +33,7 @@ h1{
 
 p {
     margin-bottom: 30px;
-    color: #faf0b9;
+    color: aliceblue;
     opacity: 0.7;
 }
 
